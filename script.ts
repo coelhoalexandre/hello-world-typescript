@@ -1,8 +1,8 @@
 interface IUsuario {
   nome: string;
   sobrenome: string;
-  idade: number;
 }
+
 function chamarOlaMundo() {
   return "Hello World";
 }
@@ -18,4 +18,4 @@ const usuario: IUsuario = {
 
 alert(chamarOlaMundo());
 
-alert(chamarBoasVindas(usuario.nome, usuario.sobrenome, usuario.idade));
+alert(chamarBoasVindas(usuario.nome, usuario.sobrenome));
