@@ -8,7 +8,7 @@
 
 <hr>
 
-Link da Publicação: [Seu Primeiro Hello World com TypeScript](...)
+Link da Publicação: [Seu Primeiro Hello World com TypeScript](https://www.linkedin.com/posts/-coelhoalexandre_primeiro-hello-world-com-typescript-pdf-activity-7212545314833010688-u987)
 
 <hr>
 
